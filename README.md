@@ -5,4 +5,4 @@ To deploy iam role and policy to Lambda function.
 * `npm install`
 * `cdk deploy`
 
-[description](https://figmentresearch.com/aws/cdkiam)
+[description](https://note.figmentresearch.com/aws/cdkiam)
